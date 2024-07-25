@@ -1,4 +1,4 @@
-package librarymanagementsystem.repositorys;
+package librarymanagementsystem.repositories;
 
 import java.util.UUID;
 
